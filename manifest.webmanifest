@@ -1,0 +1,17 @@
+{
+  "name": "Drückjagd-Tagebuch",
+  "short_name": "Drückjagd",
+  "description": "Uhr bis Hahn in Ruh, Schusszähler, Sichtungen mit Anschussmeldung und PDF-Bericht.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e0b",
+  "theme_color": "#0a0e0b",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
